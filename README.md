@@ -4,7 +4,8 @@ jQuery! For Rails! So great.
 
 This gem provides:
 
-  * jQuery 1.10.0
+  * jQuery 1.11.0
+  * jQuery 2.10.0
   * the jQuery UJS adapter
   * assert_select_jquery to test jQuery responses in Ruby tests
 
